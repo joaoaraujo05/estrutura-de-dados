@@ -1,3 +1,6 @@
+/*Escreva um programa em C que aloque dinamicamente uma estrutura Produto com os campos preco (float) e quantidade (int). 
+Atribua valores aos campos, imprima-os e libere a memória corretamente. Explique por que a alocação dinâmica é necessária nesse caso.*/
+
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
